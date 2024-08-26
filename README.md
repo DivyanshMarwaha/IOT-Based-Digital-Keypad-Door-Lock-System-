@@ -49,5 +49,11 @@ The goal of this project is to develop a digital lock system that enhances secur
 - **User-Friendly Interface:** The keypad and LCD screen make the system easy to use, with clear and immediate feedback.
 - **Reliable Locking Mechanism:** The servo motor ensures that the lock operates smoothly and consistently, enhancing the system's reliability.
 
-## Documents Included: The following have been included in the project:
-
+## Documents Included:
+- **AcmeGrade Digital Keypad.pptx**
+- **IOT Based Digital Keypad Door Lock System Report.pdf**
+- **Divyansh Marwaha_Internship Completion.jpg**
+- **Divyansh Marwaha_Training Completion.jpg**
+- **Password based Door lock.ino**
+## Link of Tinkercad Simulation:
+- **https://www.tinkercad.com/things/4LuaQLVF4CT-password-based-door-lock?sharecode=vSy1JrQtFz2aqPvQUBLDyM8_5uFFewDRSZ_N5SV2Qz4**
