@@ -1,7 +1,5 @@
 # IOT Based Digital Keypad Door Lock System
 
-# Arduino-Based Combinational Lock System
-
 ## Problem Statement
 Traditional physical keys have long been the standard for securing doors and other access points. However, they present several issues, including the risk of being lost, stolen, or duplicated without authorization. These vulnerabilities can lead to unauthorized access, compromising the security of homes, offices, and other secured areas. Additionally, managing multiple keys can be cumbersome and inefficient, especially in environments with many secure points.
 
