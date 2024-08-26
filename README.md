@@ -1,5 +1,8 @@
 # IOT Based Digital Keypad Door Lock System
 
+## Link of Tinkercad Simulation:
+- **https://www.tinkercad.com/things/4LuaQLVF4CT-password-based-door-lock?sharecode=vSy1JrQtFz2aqPvQUBLDyM8_5uFFewDRSZ_N5SV2Qz4**
+
 ## Problem Statement
 Traditional physical keys have long been the standard for securing doors and other access points. However, they present several issues, including the risk of being lost, stolen, or duplicated without authorization. These vulnerabilities can lead to unauthorized access, compromising the security of homes, offices, and other secured areas. Additionally, managing multiple keys can be cumbersome and inefficient, especially in environments with many secure points.
 
@@ -48,10 +51,7 @@ The goal of this project is to develop a digital lock system that enhances secur
 - **Reliable Locking Mechanism:** The servo motor ensures that the lock operates smoothly and consistently, enhancing the system's reliability.
 
 ## Documents Included:
-- **AcmeGrade Digital Keypad.pptx**
-- **IOT Based Digital Keypad Door Lock System Report.pdf**
-- **Divyansh Marwaha_Internship Completion.jpg**
-- **Divyansh Marwaha_Training Completion.jpg**
-- **Password based Door lock.ino**
-## Link of Tinkercad Simulation:
-- **https://www.tinkercad.com/things/4LuaQLVF4CT-password-based-door-lock?sharecode=vSy1JrQtFz2aqPvQUBLDyM8_5uFFewDRSZ_N5SV2Qz4**
+- **Presentation: AcmeGrade Digital Keypad.pdf**
+- **Report: IOT Based Digital Keypad Door Lock System Report.pdf**
+- **ino File: Password based Door lock.ino**
+  
