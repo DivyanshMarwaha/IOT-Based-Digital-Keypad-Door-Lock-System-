@@ -22,7 +22,6 @@ The goal of this project is to develop a digital lock system that enhances secur
   This component provides real-time feedback to the user. It displays messages such as "Door is Open, Waiting..." when the correct combination is entered or "Wrong Password" when the wrong code is inputted. This helps users understand the system’s status instantly.
 - **Servo Motor:**  
   The servo motor physically operates the lock mechanism. When the correct code is entered, the servo rotates to unlock the door. It is reliable and precise, ensuring that the locking mechanism works effectively every time.
-
 - **Power Supply:**  
   The system is powered by a standard 5V power supply, sufficient to run the Arduino UNO and connected components.
 
