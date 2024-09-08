@@ -14,7 +14,6 @@ The goal of this project is to develop a digital lock system that enhances secur
 - **Reliability:** The use of a servo motor ensures precise and consistent locking and unlocking actions.
 
 ## Components
-
 - **Arduino UNO:**  
   The central microcontroller that manages the entire system. It processes input from the keypad, controls the LCD screen, and operates the servo motor.
 - **Keypad:**  
