@@ -17,13 +17,10 @@ The goal of this project is to develop a digital lock system that enhances secur
 
 - **Arduino UNO:**  
   The central microcontroller that manages the entire system. It processes input from the keypad, controls the LCD screen, and operates the servo motor.
-
 - **Keypad:**  
   A numeric keypad serves as the input device for entering the lock combination. It is simple to use and allows for a secure way to input the access code.
-
 - **LCD Screen:**  
   This component provides real-time feedback to the user. It displays messages such as "Door is Open, Waiting..." when the correct combination is entered or "Wrong Password" when the wrong code is inputted. This helps users understand the system’s status instantly.
-
 - **Servo Motor:**  
   The servo motor physically operates the lock mechanism. When the correct code is entered, the servo rotates to unlock the door. It is reliable and precise, ensuring that the locking mechanism works effectively every time.
 
